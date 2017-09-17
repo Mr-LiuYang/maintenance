@@ -1,0 +1,14 @@
+body,html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    min-height: 675px;
+}
+.maintenance-pic {
+    background-image: url(../images/maintenance.png);
+    -webkit-background-size: cover;
+    background-size:cover;
+    background-position: center;
+    min-width: 1120px;
+    height: 100%;
+}
